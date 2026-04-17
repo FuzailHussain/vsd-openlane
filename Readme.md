@@ -90,7 +90,7 @@ Calculating DFF percentage in design.
 
 ---
 
-## Floorplanning
+## Section 2: Floorplanning
 Defining chip layout and dimensions.
 
 ### Run Floorplan
