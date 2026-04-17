@@ -148,7 +148,14 @@ Understanding transistor connections.
 ### DRC Error Demonstration
 Observing rule violations.
 
-![image](./images/s3_4.png)
+![image](./images/s3_4_1.png)
+![image](./images/s3_4_2.png)
+![image](./images/s3_4_3.png)
+![image](./images/s3_4_4.png)
+![image](./images/s3_4_5.png)
+![image](./images/s3_4_6.png)
+![image](./images/s3_4_7.png)
+![image](./images/s3_4_8.png)
 
 ---
 
