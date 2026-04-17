@@ -269,14 +269,18 @@ Improving slack values.
 ### Run CTS
 Generating clock tree.
 
-![image](./images/s4_14.png)
+![image](./images/s4_14_1.png)
+![image](./images/s4_14_2.png)
 
 ---
 
 ### PDN Generation
 Creating power network.
 
-![image](./images/s4_16.png)
+![image](./images/s4_16_1.png)
+![image](./images/s4_16_2.png)
+![image](./images/s4_16_3.png)
+![image](./images/s4_16_4.png)
 
 ---
 
