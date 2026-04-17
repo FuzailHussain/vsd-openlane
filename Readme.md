@@ -228,7 +228,9 @@ Updating OpenLANE configuration.
 ### Re-run Synthesis with Custom Cell
 Including new cell in synthesis.
 
-![image](./images/s4_6.png)
+![image](./images/s4_6_1.png)
+![image](./images/s4_6_2.png)
+
 
 ---
 
@@ -249,7 +251,11 @@ Preparing timing analysis.
 ### Run STA (OpenSTA)
 Performing timing checks.
 
-![image](./images/s4_10.png)
+![image](./images/s4_10_1.png)
+![image](./images/s4_10_2.png)
+![image](./images/s4_10_3.png)
+![image](./images/s4_10_4.png)
+![image](./images/s4_10_5.png)
 
 ---
 
@@ -287,7 +293,8 @@ Performing detailed routing.
 ### Routed Layout
 Viewing final routing.
 
-![image](./images/s5_2.png)
+![image](./images/s5_2_1.png)
+![image](./images/s5_2_2.png)
 
 ---
 
@@ -297,7 +304,8 @@ Final verification and timing.
 ### SPEF Extraction
 Extracting parasitics.
 
-![image](./images/s6_1.png)
+![image](./images/s6_1_1.png)
+![image](./images/s6_1_2.png)
 
 ---
 
@@ -311,6 +319,8 @@ Analyzing timing with parasitics.
 ### Final Timing Report
 Generating final timing results.
 
-![image](./images/s6_4.png)
+![image](./images/s6_4_1.png)
+![image](./images/s6_4_2.png)
+
 
 ---
