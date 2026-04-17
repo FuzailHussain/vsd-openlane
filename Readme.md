@@ -10,7 +10,7 @@
   - [Synthesis Report Analysis](#synthesis-report-analysis)
   - [Flop Ratio Calculation](#flop-ratio-calculation)
 
-- [Floorplanning](#floorplanning)
+- [Section 2: Floorplanning](#floorplanning)
   - [Run Floorplan](#run-floorplan)
   - [Floorplan DEF Analysis](#floorplan-def-analysis)
   - [Die Area Calculation](#die-area-calculation)
