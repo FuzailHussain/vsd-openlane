@@ -39,13 +39,11 @@
   - [Run STA (OpenSTA)](#run-sta-opensta)
   - [Timing Optimization](#timing-optimization)
   - [Run CTS](#run-cts)
-  - [PDN Generation](#pdn-generation)
 
-- [Routing](#routing)
+- [Section 5: Final steps for RTL2GDS using tritonRoute and openSTA](#routing)
+  - [PDN Generation](#pdn-generation)
   - [Run Routing](#run-routing)
   - [Routed Layout](#routed-layout)
-
-- [Post-Route Analysis](#post-route-analysis)
   - [SPEF Extraction](#spef-extraction)
   - [Post-Route STA](#post-route-sta)
   - [Final Timing Report](#final-timing-report)
@@ -286,6 +284,8 @@ Generating clock tree.
 
 ---
 
+## Section 5: Final steps for RTL2GDS using tritonRoute and openSTA
+
 ### PDN Generation
 Creating power network.
 
@@ -296,8 +296,6 @@ Creating power network.
 
 ---
 
-## Routing
-Connecting all nets.
 
 ### Run Routing
 Performing detailed routing.
@@ -314,8 +312,6 @@ Viewing final routing.
 
 ---
 
-## Post-Route Analysis
-Final verification and timing.
 
 ### SPEF Extraction
 Extracting parasitics.
