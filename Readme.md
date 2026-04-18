@@ -162,7 +162,8 @@ Observing rule violations.
 ### Spice Extraction
 Generating SPICE netlist.
 
-![image](./images/s3_5.png)
+![image](./images/s3_5_1.png)
+![image](./images/s3_5_2.png)
 
 ---
 
@@ -183,7 +184,8 @@ Preparing for simulation.
 ### NGSpice Simulation Run
 Running circuit simulation.
 
-![image](./images/s3_8.png)
+![image](./images/s3_8_1.png)
+![image](./images/s3_8_2.png)
 
 ---
 
@@ -197,14 +199,18 @@ Analyzing switching waveform.
 ### Rise/Fall Time Calculation
 Measuring transition delays.
 
-![image](./images/s3_10.png)
+![image](./images/s3_10_1.png)
+![image](./images/s3_10_2.png)
+![image](./images/s3_10_3.png)
+![image](./images/s3_10_4.png)
 
 ---
 
 ### Cell Delay Calculation
 Computing propagation delay.
 
-![image](./images/s3_11.png)
+![image](./images/s3_11_1.png)
+![image](./images/s3_11_2.png)
 
 ---
 
